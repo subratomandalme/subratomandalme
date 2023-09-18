@@ -8,7 +8,7 @@ Hi, I'm a software developer, and designer, who wants to be an entrepreneur.<br>
 Socials -<br>
 
 My website is under construction!    <br>
-You can contact me at sinstersix15@gmail.com <br>
+You can contact me at subratomandalme@gmail.com <br>
 [Instagram](https://www.instagram.com/subratomandalme/)
 | [Twitter](https://twitter.com/subratomandalme)
 | [Dribble](https://dribbble.com/subratomandal)

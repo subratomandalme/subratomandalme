@@ -9,10 +9,6 @@ Socials -<br>
 
 My website is under construction!    <br>
 You can contact me at subratomandalme@gmail.com <br>
-[Instagram](https://www.instagram.com/subratomandalme/)
-| [Twitter](https://twitter.com/subratomandalme)
-| [Youtube](https://www.youtube.com/@mochipog)
-
 
 <br />
 

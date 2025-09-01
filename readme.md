@@ -1,5 +1,12 @@
 # About Me 
 
+I'm a software developer with a focus on backend systems.
+
+**Languages & Frameworks:**
+- Languages:** C, C++, Java, Python, JavaScript, Rust
+- Web Development:** React, Node.js
+- Tools & DevOps:** Git, Docker, AWS
+
 Socials<br>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](subratomandalme@gmail.com)
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://subratomandal.in/)

@@ -13,9 +13,6 @@
 
 <br>
 
-| Streaks | Stats |
-|:-------------------------:|:-------------------------:|
-| ![](https://github-readme-streak-stats.herokuapp.com/?user=subratomandalme&theme=dark&hide_border=true) | ![](https://github-readme-stats.vercel.app/api?username=subratomandalme&theme=dark&hide_border=true&include_all_commits=true&count_private=false) |
 
 
 <br />

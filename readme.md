@@ -1,13 +1,12 @@
 # About Me 
 
-**Socials-**
+**Socials**
 <br>
 <br>
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://subratomandal.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subratomandalme@gmail.com)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/subratomandalme/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/subratomandalme)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subratomandal/)
-[![Huggingface](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)](https://huggingface.co/subratomandalme)
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/subratomandalme)
-
+[![Website](https://img.shields.io/badge/website-1a1a1a?style=for-the-badge&logo=about.me&logoColor=white)](https://subratomandal.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subratomandalme@gmail.com)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-1a1a1a?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/subratomandalme/)
+[![Twitter](https://img.shields.io/badge/Twitter-1a1a1a?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/subratomandalme)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subratomandal/)
+[![HuggingFace](https://img.shields.io/badge/-HuggingFace-1a1a1a?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/subratomandalme)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-1a1a1a?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/subratomandalme)
